@@ -75,7 +75,6 @@ The agent is configured for a 1152x648 pixel canvas with:
 
 ## Project Structure
 ```
-Session4/Assignment/
 ├── autonomous_paint_agent.py  # Main agent implementation
 ├── paint_tools.py             # MCP server with Paint and email tools
 ├── .env                       # Environment variables
